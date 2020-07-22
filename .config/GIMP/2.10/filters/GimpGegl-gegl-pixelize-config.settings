@@ -1,0 +1,24 @@
+# settings
+
+(GimpGegl-gegl-pixelize-config "2020-06-02 14:19:25"
+    (time 1591125565)
+    (norm round)
+    (size-x 2)
+    (size-y 2)
+    (offset-x 0)
+    (offset-y 0)
+    (ratio-x 1)
+    (ratio-y 1)
+    (background (color-rgba 1 0.36862745098039218 0.3843137254901961 0)))
+(GimpGegl-gegl-pixelize-config "2020-05-22 14:01:47"
+    (time 1590174107)
+    (norm square)
+    (size-x 2)
+    (size-y 2)
+    (offset-x 17)
+    (offset-y -15)
+    (ratio-x 1)
+    (ratio-y 1)
+    (background (color-rgba 1 1 1 1)))
+
+# end of settings

@@ -1,0 +1,48 @@
+{
+	"name": "alek-kai-theme",
+	"displayName": "Kai Light",
+	"description": "A light theme that gets contrast and readability right!",
+	"version": "0.4.0",
+	"publisher": "alekangelov",
+	"repository": {
+		"url": "https://github.com/alekangelov/vscode-kai-light",
+		"type": "git"
+	},
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"light",
+		"contrast",
+		"light theme",
+		"monokai",
+		"frost"
+	],
+	"galleryBanner": {
+		"color": "#0084ff",
+		"theme": "dark"
+	},
+	"icon": "logo.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kai Light",
+				"uiTheme": "vs",
+				"path": "./themes/alekKai.json"
+			},
+			{
+				"label": "Kai Light Accent",
+				"uiTheme": "vs",
+				"path": "./themes/alekKaiSat.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "5a850aa3-43d3-458a-89c1-459d2ed881c9",
+		"publisherId": "7b5bbdf7-007c-4fa9-bc21-3fa7399410e2",
+		"publisherDisplayName": "Alek Angelov"
+	}
+}

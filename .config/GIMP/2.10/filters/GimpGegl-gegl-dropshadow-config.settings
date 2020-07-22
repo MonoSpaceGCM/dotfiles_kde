@@ -1,0 +1,81 @@
+# settings
+
+(GimpGegl-gegl-dropshadow-config "2020-07-21 18:53:35"
+    (time 1595375615)
+    (x 0)
+    (y 0)
+    (radius 15)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.75000000000000022))
+(GimpGegl-gegl-dropshadow-config "2020-07-11 21:55:58"
+    (time 1594522558)
+    (x -20)
+    (y -20)
+    (radius 10)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.5))
+(GimpGegl-gegl-dropshadow-config "2020-07-11 21:55:48"
+    (time 1594522548)
+    (x 20)
+    (y 20)
+    (radius 10)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.5))
+(GimpGegl-gegl-dropshadow-config "2020-06-28 23:09:24"
+    (time 1593403764)
+    (x 10)
+    (y 10)
+    (radius 20)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.5))
+(GimpGegl-gegl-dropshadow-config "2020-06-28 23:09:01"
+    (time 1593403741)
+    (x -10)
+    (y -10)
+    (radius 20)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.5))
+(GimpGegl-gegl-dropshadow-config "2020-06-20 02:22:30"
+    (time 1592637750)
+    (x -13.836)
+    (y 12.579000000000001)
+    (radius 0)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.93600000000000005))
+(GimpGegl-gegl-dropshadow-config "2020-06-20 02:14:28"
+    (time 1592637268)
+    (x -2.2639999999999998)
+    (y 46.792000000000002)
+    (radius 1.7)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.5))
+(GimpGegl-gegl-dropshadow-config "2020-06-20 02:14:00"
+    (time 1592637240)
+    (x 0)
+    (y 0)
+    (radius 0.68999999999999995)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.5))
+(GimpGegl-gegl-dropshadow-config "2020-06-20 02:11:03"
+    (time 1592637063)
+    (x 20)
+    (y 20)
+    (radius 1.26)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.5))
+(GimpGegl-gegl-dropshadow-config "2020-06-08 03:14:17"
+    (time 1591604057)
+    (x 20)
+    (y 20)
+    (radius 24.359999999999999)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.56499999999999995))
+(GimpGegl-gegl-dropshadow-config "Shadow banner TW"
+    (time 0)
+    (x -10)
+    (y -10)
+    (radius 20)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.5))
+
+# end of settings

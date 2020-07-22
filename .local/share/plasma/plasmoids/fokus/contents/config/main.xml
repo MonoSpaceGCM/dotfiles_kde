@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+
+  <group name="General">
+    <entry name="focus_time" type="UInt">
+      <default>25</default>
+    </entry>
+        <entry name="short_break_time" type="UInt">
+      <default>5</default>
+    </entry>
+        <entry name="long_break_time" type="UInt">
+      <default>20</default>
+    </entry>
+    <entry name="clock_fontfamily" type="string">
+        <default></default>
+    </entry>
+    <entry name="timer_start_sfx_enabled" type="bool">
+        <default>false</default>
+    </entry>
+    <entry name="timer_start_sfx_filepath" type="string">
+        <default>/usr/share/sounds/freedesktop/stereo/dialog-information.oga</default>
+    </entry>
+    <entry name="timer_stop_sfx_enabled" type="bool">
+        <default>true</default>
+    </entry>
+    <entry name="timer_stop_sfx_filepath" type="string">
+        <default>/usr/share/sounds/freedesktop/stereo/complete.oga</default>
+    </entry>
+    <entry name="timer_auto_next_enabled" type="bool">
+        <default>false</default>
+    </entry>
+
+    <entry name="start_focus_script_filepath" type="string">
+        <default></default>
+    </entry>
+    <entry name="start_focus_script_enabled" type="bool">
+        <default>false</default>
+    </entry>
+
+    <entry name="start_break_script_filepath" type="string">
+        <default></default>
+    </entry>
+    <entry name="start_break_script_enabled" type="bool">
+        <default>false</default>
+    </entry>
+
+    <entry name="end_focus_script_filepath" type="string">
+        <default></default>
+    </entry>
+    <entry name="end_focus_script_enabled" type="bool">
+        <default>false</default>
+    </entry>
+
+    <entry name="end_break_script_filepath" type="string">
+        <default></default>
+    </entry>
+    <entry name="end_break_script_enabled" type="bool">
+        <default>false</default>
+    </entry>
+
+    <entry name="stop_script_filepath" type="string">
+        <default></default>
+    </entry>
+    <entry name="stop_script_enabled" type="bool">
+        <default>false</default>
+    </entry>
+
+  </group>
+</kcfg>

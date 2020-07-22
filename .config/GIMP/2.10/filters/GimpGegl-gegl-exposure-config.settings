@@ -1,0 +1,40 @@
+# settings
+
+(GimpGegl-gegl-exposure-config "2020-07-21 16:35:44"
+    (time 1595367344)
+    (black-level -0.10000000000000001)
+    (exposure -0.99999999999999889))
+(GimpGegl-gegl-exposure-config "2020-07-04 00:33:48"
+    (time 1593840828)
+    (black-level 0)
+    (exposure -0.89300000000000002))
+(GimpGegl-gegl-exposure-config "2020-06-08 03:11:10"
+    (time 1591603870)
+    (black-level 0.017000000000000001)
+    (exposure -0.35699999999999998))
+(GimpGegl-gegl-exposure-config "2020-06-08 02:35:54"
+    (time 1591601754)
+    (black-level -0.0040000000000000001)
+    (exposure 3.3330000000000002))
+(GimpGegl-gegl-exposure-config "2020-06-02 14:44:30"
+    (time 1591127070)
+    (black-level 0.035999999999999997)
+    (exposure -3.0409999999999999))
+(GimpGegl-gegl-exposure-config "2020-06-02 14:19:54"
+    (time 1591125594)
+    (black-level -0.025000000000000001)
+    (exposure 0))
+(GimpGegl-gegl-exposure-config "2020-06-02 14:17:31"
+    (time 1591125451)
+    (black-level 0.031)
+    (exposure -2.6320000000000001))
+(GimpGegl-gegl-exposure-config "2020-05-31 17:23:35"
+    (time 1590963815)
+    (black-level 0.024)
+    (exposure -0.70199999999999996))
+(GimpGegl-gegl-exposure-config "2020-05-16 21:58:54"
+    (time 1589684334)
+    (black-level 0)
+    (exposure 34.152000000000001))
+
+# end of settings

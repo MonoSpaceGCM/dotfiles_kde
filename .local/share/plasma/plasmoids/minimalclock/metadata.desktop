@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Minimal Clock
+Comment=Minimalistic clock
+Icon=clock
+ 
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-DefaultSize=160,260
+ 
+X-KDE-PluginInfo-Author=Anant Kamath
+X-KDE-PluginInfo-Email=kamathanant@gmail.com
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-PluginInfo-Category=Date and Time
+X-KDE-PluginInfo-Name=minimalclock
+X-KDE-PluginInfo-Version=0.12
+ 
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-ServiceTypes=Plasma/Applet,Plasma/PopupApplet
+Type=Service

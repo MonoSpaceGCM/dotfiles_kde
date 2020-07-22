@@ -1,0 +1,36 @@
+# settings
+
+(GimpBrightnessContrastConfig "2020-07-09 14:29:10"
+    (time 1594322950)
+    (brightness 1)
+    (contrast 0))
+(GimpBrightnessContrastConfig "2020-06-12 15:53:41"
+    (time 1591995221)
+    (brightness 0)
+    (contrast -0.39370078740157483))
+(GimpBrightnessContrastConfig "2020-05-22 13:54:28"
+    (time 1590173668)
+    (brightness 0)
+    (contrast -0.28346456692913385))
+(GimpBrightnessContrastConfig "2020-05-17 14:49:11"
+    (time 1589744951)
+    (brightness 1)
+    (contrast 1))
+(GimpBrightnessContrastConfig "2020-05-17 14:49:06"
+    (time 1589744946)
+    (brightness 0.40157480314960631)
+    (contrast -0.007874015748031496))
+(GimpBrightnessContrastConfig "Blanqueador - 1-3"
+    (time 0)
+    (brightness 0.40157480314960631)
+    (contrast -0.007874015748031496))
+(GimpBrightnessContrastConfig "Blanqueador - 4"
+    (time 0)
+    (brightness 1)
+    (contrast 1))
+(GimpBrightnessContrastConfig "Patelizador muso"
+    (time 0)
+    (brightness 0.40157480314960631)
+    (contrast -0.007874015748031496))
+
+# end of settings
